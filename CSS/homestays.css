@@ -1552,20 +1552,6 @@ select:focus {
   font-weight: bold;
 }
 
-.add-to-wishlist-btn {
-  background-color: transparent;
-  border: none;
-  font-size: 1.8rem;
-  color: #ff4081;
-  cursor: pointer;
-  transition: color 0.3s ease, transform 0.3s;
-}
-
-.add-to-wishlist-btn:hover {
-  color: red;
-  transform: scale(1.1);
-}
-
 /* Base styles already provided above */
 
 /* 📌 Small Devices (200px and up) */
